@@ -18,7 +18,7 @@
     "grunt-contrib-watch": "1.1.0",
     "grunt-contrib-concat": "2.1.0",
     "grunt-contrib-cssmin": "4.0.0",
-    "load-grunt-tasks": "0.6.0"
+    "load-grunt-tasks": "5.1.0"
   },
   "spm": {
     "main": "./animate.css"
