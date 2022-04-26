@@ -45,7 +45,7 @@
     "grunt-contrib-less": "3.0.0",
     "grunt-contrib-qunit": "6.0.0",
     "grunt-contrib-uglify": "5.2.1",
-    "grunt-contrib-watch": "0.6.1",
+    "grunt-contrib-watch": "1.1.0",
     "grunt-csscomb": "3.1.1",
     "grunt-exec": "0.4.7",
     "grunt-html": "4.0.3",
