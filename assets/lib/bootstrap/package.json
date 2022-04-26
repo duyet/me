@@ -51,7 +51,7 @@
     "grunt-html": "15.2.2",
     "grunt-jekyll": "1.0.1",
     "grunt-jscs": "3.0.1",
-    "grunt-saucelabs": "8.6.3",
+    "grunt-saucelabs": "9.0.1",
     "grunt-sed": "twbs/grunt-sed#v0.2.0",
     "load-grunt-tasks": "3.5.2",
     "markdown-it": "4.4.0",
